@@ -10,9 +10,10 @@ let indefinido; // undefined
 
 // Arrays
 let frutas = ["manzana", "banana", "pera"];
+console.log(frutas);
 
 // Objetos
 let persona = {
-    nombre: "Catalina",
-    edad: 25
+  nombre: "Catalina",
+  edad: 25,
 };
