@@ -100,3 +100,8 @@ export async function getLotsofData() {
 // getData();
 // postData();
 getLotsofData();
+
+
+algoritosmo
+
+
